@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "xsljlb-taro",
+  "appid": "wxbd16ad40606d3cba",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
