@@ -14,7 +14,7 @@
 </template>
 
 <script setup>
-import { onMounted, ref } from "vue";
+import { ref } from "vue";
 import Home from "../home/index.vue";
 import Taro from "@tarojs/taro";
 

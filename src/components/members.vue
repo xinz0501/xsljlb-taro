@@ -15,14 +15,12 @@
 </template>
 
 <script setup>
-import { ref } from "vue";
-import members from "../../mock/members";
+import members from "../mock/members";
 
 </script>
 
 <style lang="scss">
 .members {
-  overflow: auto;
   .member {
     display: flex;
     margin-bottom: 1rem;
